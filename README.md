@@ -50,11 +50,21 @@ An interactive Power BI dashboard built to explore 18,000+ LEGO sets released fr
 * Tooltips showing LEGO set images
 
 ---
+## 📊 Dashboard Features
+
+- Interactive filters: Age range, theme group, and price range  
+- Decomposition tree for deep-dive analysis by category and set name  
+- Slicers for themes and dynamic filtering  
+- Tooltips with LEGO set images  
+- Reset filters button using bookmarks  
+- No traditional bar/line charts – design focused on tables, filters, and visual clarity
+  
+
 ## 🖼️ Dashboard Preview
 
 ![LEGO Dashboard](https://github.com/SahilChandrani/Lego-Set-Explorer/blob/main/Screenshot%20(10).png)
 
-
+![LEGO Dashboard](https://github.com/SahilChandrani/Lego-Set-Explorer/blob/main/Screenshot%20(11).png)
 
 
 
