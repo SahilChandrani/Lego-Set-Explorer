@@ -1,67 +1,66 @@
-# Lego-Set-Explorer
-Sure, Sahil! Here's the **clean, professional version without emojis**, using only bullet points and in a well-structured format for your GitHub repository or portfolio:
+
+
+# 🧱 LEGO Set Explorer Dashboard
+
+**Guided Power BI Project – Maven Analytics**
+
+An interactive Power BI dashboard built to explore 18,000+ LEGO sets released from 1970 to 2022. The project includes details such as set names, themes, number of pieces, recommended age, retail prices, and images. Designed to answer key business questions through visual analysis and DAX calculations.
 
 ---
 
-# LEGO Set Explorer Dashboard
+## 📊 Key Insights
 
-**Power BI Project | Guided by Maven Analytics**
-
-This project analyzes over 18,000 LEGO sets released between 1970 and 2022. The goal was to build an interactive Power BI dashboard that explores themes, pricing, age groups, and set complexity — without relying on traditional bar or line charts. The dashboard focuses on clean user experience, interactivity, and deep-level drilldowns.
-
----
-
-## Key Insights
-
-* Total LEGO sets analyzed: 18,000+
-* Timeline: 1970 to 2022
-* Average pieces per set: \~350
-* Average set price: \~\$45
-* Clear correlation found between number of pieces and price
-* Popular themes vary across decades (e.g., Star Wars, City, Technic)
-* Minifigures are more frequently included in licensed sets
+* Over **18,000 LEGO sets** analyzed (1970–2022)
+* **Average price**: \~\$45 per set
+* **Average pieces**: \~350 per set
+* Most **licensed themes** (e.g., Star Wars, Harry Potter) include **more minifigures**
+* **Steady growth** in LEGO set releases, especially post-2000
 
 ---
 
-## Business Questions Answered
+## ❓ Business Questions & Answers
 
-* How many LEGO sets have been released since 1970? Is there a trend?
-* Is there a relationship between price and number of pieces?
-* What has been the most popular LEGO theme in each decade?
-* Are LEGO minifigures mostly tied to licensed sets?
+* **How many LEGO sets have been released since 1970? Is there a trend?**
+  → More than 18,000 sets. A clear upward trend with more sets released each decade, especially after 2000.
 
----
+* **Is there a relationship between the price and number of pieces?**
+  → Yes. Sets with more pieces tend to cost more. There’s a strong positive correlation.
 
-## Tools Used
+* **Which has been the most popular theme in each decade?**
+  →
 
-* Microsoft Power BI
-* Power Query Editor
-* DAX Measures and Calculated Columns
-* Parameters and Slicers
-* Decomposition Tree Visual
-* Bookmarks and Button Navigation
+  * **1980s**: Classic & Space
+  * **1990s**: Technic & Pirates
+  * **2000s**: Star Wars & Bionicle
+  * **2010s–2020s**: City, Ninjago, Marvel
 
----
-
-## Dashboard Features
-
-* Summary cards for total sets, average price, and average pieces
-* Age Range and Price Range conditional columns
-* Interactive table with set name, ID, image, age, price, and category
-* Slicers to filter by theme group, theme, age, and price
-* Decomposition Tree visual for hierarchical exploration
-* Reset filters using bookmark-enabled button
-* Tooltips showing LEGO set images on hover
+* **Are LEGO minifigures mostly found in licensed sets?**
+  → Yes. Most licensed sets contain minifigures, making them more collectible and themed.
 
 ---
 
-## Files Included
+## 🛠 Tools & Features Used
 
-* `LEGO Set Explorer.pbix` – Power BI dashboard file
-* `lego_sets.csv` – Cleaned dataset
-* `Dashboard_Screenshot.png` – Dashboard preview image
+* Power BI
+* Power Query for data cleaning
+* DAX for custom measures and filters
+* Decomposition Tree visual for drill-down analysis
+* Slicers for Theme Group, Age Range, and Price
+* Bookmarks & Buttons for filter reset
+* Tooltips showing LEGO set images
+
+---
+
+## 📁 Project Files
+
+* `LEGO Set Explorer.pbix` – Power BI Report File
+* `lego_sets.csv` – Cleaned Dataset
+* `Dashboard_Screenshot.png` – Dashboard Preview
+
+---
+
+## ✅ Conclusion
+
+This guided project helped me build practical Power BI skills like data modeling, DAX calculations, interactivity, and report design. By analyzing LEGO’s history, themes, and product patterns, I learned how to extract valuable business insights from real-world datasets.
 
 
-## Conclusion
-
-This guided project demonstrates proficiency in Power BI through data transformation, DAX calculation, user-centered design, and advanced interactivity. The analysis delivers meaningful business insights and showcases an ability to build clean, intuitive dashboards with minimal visual clutter. It serves as a strong portfolio project highlighting end-to-end BI workflow skills.
