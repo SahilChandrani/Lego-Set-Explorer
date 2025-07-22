@@ -50,6 +50,13 @@ An interactive Power BI dashboard built to explore 18,000+ LEGO sets released fr
 * Tooltips showing LEGO set images
 
 ---
+## 🖼️ Dashboard Preview
+
+![LEGO Dashboard](lego_dashboard.png)
+
+
+
+
 
 ## 📁 Project Files
 
