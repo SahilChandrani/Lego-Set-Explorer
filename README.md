@@ -8,6 +8,17 @@ An interactive Power BI dashboard built to explore 18,000+ LEGO sets released fr
 
 ---
 
+## 🎯 Project Objectives
+
+- Load and clean LEGO dataset (remove nulls and unnecessary columns)  
+- Categorize sets by age and price ranges using conditional columns  
+- Create DAX measures for total sets, average price, average pieces, etc.  
+- Design a clean, interactive dashboard layout using slicers and cards  
+- Add a decomposition tree to explore themes and categories  
+- Implement tooltips, dynamic filters, bookmarks, and reset buttons
+
+---
+
 ## 📊 Key Insights
 
 * Over **18,000 LEGO sets** analyzed (1970–2022)
